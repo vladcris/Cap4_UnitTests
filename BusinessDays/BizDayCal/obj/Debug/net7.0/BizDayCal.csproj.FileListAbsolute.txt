@@ -1,0 +1,12 @@
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\bin\Debug\net7.0\BizDayCal.deps.json
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\bin\Debug\net7.0\BizDayCal.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\bin\Debug\net7.0\BizDayCal.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.csproj.AssemblyReference.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.AssemblyInfoInputs.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.AssemblyInfo.cs
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.csproj.CoreCompileInputs.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\refint\BizDayCal.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\BizDayCal.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap4_UnitTests\BusinessDays\BizDayCal\obj\Debug\net7.0\ref\BizDayCal.dll
